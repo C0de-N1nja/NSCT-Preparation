@@ -1,6 +1,6 @@
-# 📚 NSCT Preparation — Complete MCQ Bank
+# 📚 NSCT Preparation - Complete MCQ Bank
 
-> **A comprehensive, community-built MCQ preparation bank for the National Skill Competency Test (NSCT) — covering all 10 official subjects with 2170+ questions, quick notes, deep dives, and curated resources.**
+> **A comprehensive, community-built MCQ preparation bank for the National Skill Competency Test (NSCT) - covering all 10 official subjects with 2170+ questions, quick notes, deep dives, and curated resources.**
 
 ---
 
@@ -8,7 +8,7 @@
 
 The **National Skill Competency Test (NSCT)** is a national-level assessment for IT graduates in Pakistan, conducted by **HEC** in collaboration with **MoITT, PSEB, P@SHA, and NCEAC**, with **Virtual University of Pakistan** as the testing body.
 
-- 📅 **Test Dates:** April 4 & 5, 2026
+- 📅 **Test Dates:** January 23 & 24, 2027 (Tentative)
 - 🌐 **Official Portal:** [nsct.hec.gov.pk](https://nsct.hec.gov.pk)
 - 🎯 **Purpose:** Evaluate the competency of IT graduates across core CS/IT domains
 
@@ -18,7 +18,7 @@ The **National Skill Competency Test (NSCT)** is a national-level assessment for
 
 | File | Subject | Weight | MCQs |
 |------|---------|--------|------|
-| `NSCT_File_00_Master-Resources` | Master Resources (YouTube + Practice Links) | — | — |
+| `NSCT_File_00_Master-Resources` | Master Resources (YouTube + Practice Links) | - | - |
 | `NSCT_File_01_Problem_Solving` | Problem Solving & Analytical Skills | **20%** | 320 |
 | `NSCT_File_02_Programming` | Programming (C++ / Java / Python) | **10%** | 240 |
 | `NSCT_File_03_DSA` | Data Structures & Algorithms | **10%** | 243 |
@@ -66,11 +66,11 @@ Every subject file follows the **same consistent structure:**
 ```
 
 **Question types included:**
-- `Conceptual` — Theory and definitions
-- `Scenario-Based` — Real-world situations
-- `Code/Logic` — Read and trace code output
-- `Code-Tracing` — Step through code manually
-- `Comparison` — Difference between two concepts
+- `Conceptual` - Theory and definitions
+- `Scenario-Based` - Real-world situations
+- `Code/Logic` - Read and trace code output
+- `Code-Tracing` - Step through code manually
+- `Comparison` - Difference between two concepts
 
 ---
 
@@ -78,9 +78,9 @@ Every subject file follows the **same consistent structure:**
 
 ### Recommended Study Order (by weight):
 
-1. 🔴 **Start with Problem Solving (20%)** — highest weight, do this first
-2. 🟠 **Then do all 10% subjects** — Programming, DSA, Databases, SE, Web Dev, Networks, AI/ML
-3. 🟢 **Finally do 5% subjects** — OS and Cyber Security
+1. 🔴 **Start with Problem Solving (20%)** - highest weight, do this first
+2. 🟠 **Then do all 10% subjects** - Programming, DSA, Databases, SE, Web Dev, Networks, AI/ML
+3. 🟢 **Finally do 5% subjects** - OS and Cyber Security
 
 ### Study Strategy per File:
 
@@ -94,7 +94,7 @@ Step 6 → Revise Cheat Sheet      (before moving to next subtopic)
 ```
 
 ### For Resources:
-Open **`NSCT_File_00_Master-Resources`** — it contains:
+Open **`NSCT_File_00_Master-Resources`** - it contains:
 - ▶️ Direct YouTube playlist links (English + Hindi/Urdu) for all 10 subjects
 - 🌐 Practice websites with direct links for each subject
 
@@ -137,8 +137,8 @@ All contributions are welcome!
 
 ## ⭐ Support
 
-If this helped you, please consider giving it a **star ⭐** — it helps others find this resource too!
+If this helped you, please consider giving it a **star ⭐** - it helps others find this resource too!
 
 ---
 
-*Built with ❤️ for Pakistani IT graduates preparing for NSCT 2026*
+*Built with ❤️ for Pakistani IT graduates preparing for NSCT 2027*
